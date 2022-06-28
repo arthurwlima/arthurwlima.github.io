@@ -1,4 +1,4 @@
 <img src="DoisIrmaos.png" alt="hi" class="inline"/>
 
-# arthurwlima.github.io
+# Arthur W. Silva Lima
 Hello world!
