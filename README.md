@@ -7,5 +7,6 @@ and field work with individual-based modeling techniques to understand the inter
 
 I have a BSc degree at Ecology, MSc at Computaional Modeling and DSc at Biodiversity and Evolutionary Biology. I curently work as a research technician at the Marine Phytoplankton laboratory, at UFRJ. Despite the meanders, as everything from Rio, I've reached the sea... ;)
 
-[![Scholar logo](https://github.com/arthurwlima/arthurwlima.github.io/blob/main/512px-Google_Scholar_logo.png)|width=50px](https://scholar.google.com/citations?user=IRempwYAAAAJ&hl=pt-BR)
+<img src="[512px-Google_Scholar_logo.png]"(https://scholar.google.com/citations?user=IRempwYAAAAJ&hl=pt-BR) alt="alt text" width="50px">
+[![Scholar logo]()|width=50px]
 http://lattes.cnpq.br/0748728586772601
