@@ -1,4 +1,4 @@
-<img src="DoisIrmaos.png" alt="hi" class="inline"/>
+<img src="Pictures/DoisIrmaos.png" alt="hi" class="inline"/>
 
 # Arthur W. Silva Lima
 
@@ -7,6 +7,5 @@ and field work with individual-based modeling techniques to understand the inter
 
 I have a BSc degree at Ecology, MSc at Computaional Modeling and DSc at Biodiversity and Evolutionary Biology. I curently work as a research technician at the Marine Phytoplankton laboratory, at UFRJ. Despite the meanders, as everything from Rio, I've reached the sea... ;)
 
-[<img src="https://github.com/arthurwlima/arthurwlima.github.io/blob/main/512px-Google_Scholar_logo.png" width="50"/>](https://scholar.google.com/citations?user=IRempwYAAAAJ&hl=pt-BR)
-
-[<img src="https://github.com/arthurwlima/arthurwlima.github.io/blob/main/512px-Google_Scholar_logo.png" width="50"/>](http://lattes.cnpq.br/0748728586772601)
+[<img src="Pictures/Google.png" width="30"/>](https://scholar.google.com/citations?user=IRempwYAAAAJ&hl=pt-BR)
+[<img src="Pictures/lattes.png" width="30"/>](http://lattes.cnpq.br/0748728586772601)
